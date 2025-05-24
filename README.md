@@ -1,6 +1,6 @@
 # Learning Management System (LMS) Data Management & Governance 📚📊
 Project Overview
-This project focuses on managing and governing Learning Management System (LMS) data by leveraging cloud-native technologies and advanced data analysis techniques.
+This project built a centralized LMS dataset hosted on AWS RDS, integrating data from multiple sources: PostgreSQL, CSV files, and a local MySQL database. The goal was to create a robust system for data management, governance, and insightful analysis.
 
 Key Features & Highlights 🚀
 
@@ -21,7 +21,7 @@ Exploratory Data Analysis (EDA) 🔍📈
 Conducted thorough exploratory data analysis to generate actionable insights. This supports better decision-making by identifying trends and key metrics within the LMS data.
 
 Dashboard & Reporting 📊📝
-Developed interactive dashboards and detailed reports to clearly visualize LMS data insights. These tools enable stakeholders to monitor LMS performance and user engagement effectively.
+Developed dashboards for clear visualization of LMS data and performance metrics.
 Dashboards 📊
 Data Source 1: 
 ![oversight](https://github.com/user-attachments/assets/f61b6bb9-6a77-4dca-9c97-31fe384f619f)
